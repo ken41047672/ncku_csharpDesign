@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\NCKU\CshapeDesign\HW2\C#_WF_P76144176\bin\Debug\myDB.mdf
+C:\Users\User\Desktop\NCKU\CshapeDesign\HW2\C#_WF_P76144176\bin\Debug\myDB_log.ldf
+C:\Users\User\Desktop\NCKU\CshapeDesign\HW2\C#_WF_P76144176\bin\Debug\C#_WF_P76144176.exe.config
+C:\Users\User\Desktop\NCKU\CshapeDesign\HW2\C#_WF_P76144176\bin\Debug\C#_WF_P76144176.exe
+C:\Users\User\Desktop\NCKU\CshapeDesign\HW2\C#_WF_P76144176\bin\Debug\C#_WF_P76144176.pdb
+C:\Users\User\Desktop\NCKU\CshapeDesign\HW2\C#_WF_P76144176\obj\Debug\C#_WF_P76144176.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\NCKU\CshapeDesign\HW2\C#_WF_P76144176\obj\Debug\C__WF_P76144176.FormMain.resources
+C:\Users\User\Desktop\NCKU\CshapeDesign\HW2\C#_WF_P76144176\obj\Debug\C__WF_P76144176.Properties.Resources.resources
+C:\Users\User\Desktop\NCKU\CshapeDesign\HW2\C#_WF_P76144176\obj\Debug\C#_WF_P76144176.csproj.GenerateResource.cache
+C:\Users\User\Desktop\NCKU\CshapeDesign\HW2\C#_WF_P76144176\obj\Debug\C#_WF_P76144176.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\NCKU\CshapeDesign\HW2\C#_WF_P76144176\obj\Debug\C#_WF_P76144176.exe
+C:\Users\User\Desktop\NCKU\CshapeDesign\HW2\C#_WF_P76144176\obj\Debug\C#_WF_P76144176.pdb
+C:\Users\User\Desktop\NCKU\CshapeDesign\HW2\C#_WF_P76144176\obj\Debug\C#_WF_P76144176.exe.config
+C:\Users\User\Desktop\NCKU\CshapeDesign\HW2\C#_WF_P76144176\obj\Debug\C__WF_P76144176.FormDashboard.resources
